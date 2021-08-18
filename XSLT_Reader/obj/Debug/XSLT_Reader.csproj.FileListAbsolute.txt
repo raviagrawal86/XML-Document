@@ -1,0 +1,7 @@
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\bin\Debug\XSLT_Reader.exe.config
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\bin\Debug\XSLT_Reader.exe
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\bin\Debug\XSLT_Reader.pdb
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\obj\Debug\XSLT_Reader.csprojAssemblyReference.cache
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\obj\Debug\XSLT_Reader.csproj.CoreCompileInputs.cache
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\obj\Debug\XSLT_Reader.exe
+C:\Users\ravia\source\repos\XSLT_Reader\XSLT_Reader\obj\Debug\XSLT_Reader.pdb
